@@ -3,7 +3,7 @@ import { Table } from 'react-bootstrap'
 
 import ethan_aug26 from "../files/logs/ethan/Christensen26August2022.pdf";
 import kolby_aug26 from "../files/logs/kolby/Kunz26August2022.pdf";
-// TODO import hope_aug26 from "../files/logs/hope/Welch26August2022.pdf";
+import hope_aug26 from "../files/logs/hope/Welch26August2022.pdf";
 import lindsay_aug26 from "../files/logs/lindsay/Wilde26August2022.pdf";
 
 import ethan_sept2 from "../files/logs/ethan/Christensen2September2022.pdf";
@@ -27,7 +27,7 @@ export default function Logs() {
             "week": "8/22 - 8/26",
             "ethan": ethan_aug26,
             "kolby": kolby_aug26,
-            "hope": null,
+            "hope": hope_aug26,
             "lindsay": lindsay_aug26
         }
     ];
