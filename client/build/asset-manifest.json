@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa95dbb9.css",
+    "main.js": "/static/js/main.c38751a4.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/designDoc-2022_09_01.pdf": "/static/media/designDoc-2022_09_01.43deb5b6163e742e13c7.pdf",
+    "static/media/sept2.pdf": "/static/media/sept2.4422a61fc5ccd1ba54a3.pdf",
+    "static/media/aug26.pdf": "/static/media/aug26.aa4e7ac8345a95db3fd8.pdf",
+    "static/media/Wilde2September2022.pdf": "/static/media/Wilde2September2022.2c3a1b2e78cac2d0449d.pdf",
+    "static/media/Welch2September2022.pdf": "/static/media/Welch2September2022.b783ec018951c6fd3b86.pdf",
+    "static/media/Christensen2September2022.pdf": "/static/media/Christensen2September2022.d7b5baa3ae7e39e9c0e1.pdf",
+    "static/media/Kunz2September2022.pdf": "/static/media/Kunz2September2022.804d8dcf352b3b0eaea9.pdf",
+    "static/media/Wilde26August2022.pdf": "/static/media/Wilde26August2022.6ccfb883e1c5cb94f5f5.pdf",
+    "static/media/Christensen26August2022.pdf": "/static/media/Christensen26August2022.e29bae0f3d2177c8c2b6.pdf",
+    "static/media/Kunz26August2022.pdf": "/static/media/Kunz26August2022.43e8311e134968f606dc.pdf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.fa95dbb9.css.map": "/static/css/main.fa95dbb9.css.map",
+    "main.c38751a4.js.map": "/static/js/main.c38751a4.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa95dbb9.css",
+    "static/js/main.c38751a4.js"
+  ]
+}
