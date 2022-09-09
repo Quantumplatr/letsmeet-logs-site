@@ -1,10 +1,16 @@
 import React from 'react';
 import aug26 from "../files/WMRs/aug26.pdf";
 import sept2 from "../files/WMRs/sept2.pdf";
+import sept9 from "../files/WMRs/sept9.pdf";
 
 export default function WMRs() {
 
     var wmrList = [
+        {
+            "id": 3,
+            "title": "September 9, 2022",
+            "url": sept9
+        },
         {
             "id": 2,
             "title": "September 2, 2022",
