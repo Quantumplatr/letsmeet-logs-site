@@ -1,7 +1,7 @@
 import React from 'react';
 import aug26 from "../files/WMRs/aug26.pdf";
 import sept2 from "../files/WMRs/sept2.pdf";
-import sept9 from "../files/WMRs/sept9.pdf";
+import sept9 from "../files/WMRs/sept9_v2.pdf";
 
 export default function WMRs() {
 
