@@ -14,22 +14,22 @@ export default function Logs() {
             <ul>
                 {/* Ethan */}
                 <li>
-                    <a href={ethanLogs} target="_blank">Ethan's Logs</a>
+                    <a href={ethanLogs}>Ethan's Logs</a>
                 </li>
 
                 {/* Kolby */}
                 <li>
-                    <a href={kolbyLogs} target="_blank">Kolby's Logs</a>
+                    <a href={kolbyLogs}>Kolby's Logs</a>
                 </li>
 
                 {/* Lindsay */}
                 <li>
-                    <a href={lindsayLogs} target="_blank">Lindsay's Logs</a>
+                    <a href={lindsayLogs}>Lindsay's Logs</a>
                 </li>
 
                 {/* Hope */}
                 <li>
-                    <a href={hopeLogs} target="_blank">Hope's Logs</a>
+                    <a href={hopeLogs}>Hope's Logs</a>
                 </li>
             </ul>
         </>

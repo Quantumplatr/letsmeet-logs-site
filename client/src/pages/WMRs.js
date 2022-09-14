@@ -31,7 +31,7 @@ export default function WMRs() {
             <ul>
                 {wmrList.map((wmr) => (
                     <li key={wmr.id}>
-                        <a href={wmr.url} target="_blank">{wmr.title}</a>
+                        <a href={wmr.url}>{wmr.title}</a>
                     </li>
                 ))}
             </ul>
