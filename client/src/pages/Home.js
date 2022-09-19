@@ -1,5 +1,5 @@
 import React from 'react';
-import designDoc from "../files/designDocs/designDoc-2022_09_01.pdf";
+import designDoc from "../files/designDocs/designDoc-2022_09_19.pdf";
 
 export default function Home() {
     return (
@@ -14,7 +14,7 @@ export default function Home() {
 
                 {/* Design Doc */}
                 <li>
-                    <a href={designDoc} target="_blank">Our latest design document</a>
+                    <a href={designDoc}>Our latest design document</a>
                 </li>
 
                 {/* User Guide */}
