@@ -5,10 +5,16 @@ import sept9 from "../files/WMRs/sept9_v2.pdf";
 import sept16 from "../files/WMRs/sept16.pdf";
 import sept23 from "../files/WMRs/sept23.pdf";
 import sept30 from "../files/WMRs/sept30.pdf";
+import oct7 from "../files/WMRs/oct7.pdf";
 
 export default function WMRs() {
 
     var wmrList = [
+        {
+            "id": 7,
+            "title": "October 7, 2022",
+            "url": oct7
+        },
         {
             "id": 6,
             "title": "September 30, 2022",
