@@ -1,8 +1,8 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://quantumplatr.github.io/letsmeet-logs-site",
-  "private": true,
+  "homepage": "https://Quantumplatr.github.io/letsmeet-logs-site",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
