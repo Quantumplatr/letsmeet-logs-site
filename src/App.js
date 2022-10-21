@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import {BrowserRouter, Routes, Route} from "react-router-dom"
+import {BrowserRouter, Routes, Route, HashRouter} from "react-router-dom"
 import './App.css';
 
 import Layout from "./pages/Layout"
@@ -10,7 +10,7 @@ import Logs from "./pages/Logs"
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -19,7 +19,7 @@ function App() {
           <Route path="logs" element={<Logs />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
