@@ -1,5 +1,6 @@
 import React from 'react';
-import designDoc from "../files/designDocs/designDoc-2022_09_19.pdf";
+import designDoc from "../files/designDocs/designDoc-2022_10_20.pdf";
+import userGuide from "../files/userGuides/userGuide-2022_10_20.pdf";
 
 export default function Home() {
     return (
@@ -14,12 +15,12 @@ export default function Home() {
 
                 {/* Design Doc */}
                 <li>
-                    <a href={designDoc}>Our latest design document</a>
+                    <a href={designDoc}>Our design document</a>
                 </li>
 
                 {/* User Guide */}
                 <li>
-                    <a>Our user guide (coming soon)</a>
+                    <a href={userGuide}>Our user guide</a>
                 </li>
 
                 {/* Web App Repo */}
