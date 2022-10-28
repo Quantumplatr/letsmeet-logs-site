@@ -15,7 +15,7 @@ export default function WMRs() {
         {
             "id": 9,
             "title": "October 28, 2022",
-            "link": oct28
+            "url": oct28
         },
         {
             "id": 8,
