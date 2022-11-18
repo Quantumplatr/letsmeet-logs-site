@@ -15,6 +15,11 @@ export default function WMRs() {
 
     var wmrList = [
         {
+            "id": 12,
+            "title": "November 18, 2022",
+            "url": nov18
+        },
+        {
             "id": 11,
             "title": "November 11, 2022",
             "url": nov11
