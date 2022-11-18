@@ -10,6 +10,7 @@ import oct21 from "../files/WMRs/oct21.pdf";
 import oct28 from "../files/WMRs/oct28.pdf";
 import nov4 from "../files/WMRs/nov4.pdf";
 import nov11 from "../files/WMRs/nov11.pdf";
+import nov18 from "../files/WMRs/nov18.pdf";
 
 export default function WMRs() {
 
