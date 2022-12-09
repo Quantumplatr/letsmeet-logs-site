@@ -12,10 +12,16 @@ import nov4 from "../files/WMRs/nov4.pdf";
 import nov11 from "../files/WMRs/nov11.pdf";
 import nov18 from "../files/WMRs/nov18.pdf";
 import dec2 from "../files/WMRs/dec2.pdf";
+import dec9 from "../files/WMRs/dec9.pdf";
 
 export default function WMRs() {
 
     var wmrList = [
+        {
+            "id": 14,
+            "title": "December 9, 2022",
+            "url": dec9
+        },
         {
             "id": 13,
             "title": "December 2, 2022",

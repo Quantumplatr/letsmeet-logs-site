@@ -1,6 +1,6 @@
 import React from 'react';
 import designDoc from "../files/designDocs/designDoc-2022_12_01.pdf";
-import userGuide from "../files/userGuides/userGuide-2022_10_20.pdf";
+import userGuide from "../files/userGuides/userGuide-2022_12_02.pdf";
 
 export default function Home() {
     return (
